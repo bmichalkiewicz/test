@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "It's working!"
+echo "It's working! Push it moron"
